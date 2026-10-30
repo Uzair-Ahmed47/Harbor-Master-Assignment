@@ -1,0 +1,19 @@
+{
+  "audit_logs.py": "061ba2491915949a9d13c39ff7265988d4a5cc6ee2eb6e00a27caf37a9184e02",
+  "evaluate.py": "a77030dca6bfe3c42650a99b3cc0412dadd42a3177c1d5253ec82834a5e185fc",
+  "finish_minimum.py": "31bf3a149ce310912757c055a1deead2e4df601074e30f5b970748665a7a41c3",
+  "llm_experiments.py": "4d21508d22b82b1d557c7db59192c312ad9b135b3da46a9fc283674ca1336b15",
+  "make_report.py": "31ad6fbc02946628fdb81570399ad680c3632fa049cc4d82188477c4a03facf0",
+  "model_sections.py": "576ac23b1648add2e54a11202b9f75b3cf58f664bdc6ae852f6c292f769dd2f5",
+  "reproduce.py": "b38969e7992c233e27793f44c55f3fbfb23fa5d07b39406645ced41d13ece692",
+  "run.py": "ee1a9e5a8c9c79e6f9534c4dbb6f622c0e3623a37ae28f7247ed368a97e68374",
+  "run_live.py": "aa53092980d48ddc9e4ec6b5c4e2ef5720ce5052d86234eb0afdb023dc6f47ab",
+  "summarize_live.py": "0d0af44e11602490d64803cf995f12c50e59a861a925c1e39e8df70d57a3e94a",
+  "src/master.py": "7a28f1cc81b6b521464ee0c96f9ff1a7b6fb21d74765f4bb12dfcf183b5ee3ba",
+  "src/simulation.py": "562eed347eccd1fbe6fe76b333eeeaadc493072475d3f304b2996ec2c32d2409",
+  "tests/test_safety.py": "9993832f632d1df20439f38d4edeffe01c92fdf55cec3cad9a2f3bb6faaa0996",
+  "prompts/CHANGELOG.md": "036072aa2ad52eb5cb11291df39f8d5c2d241a2ab1b1f71a53c30008200d0ce7",
+  "prompts/examples.txt": "302c2369dbcf49ceb82c8c67ee3053980e9db50a0f0f35689e782864d9c24239",
+  "prompts/injection_cases.json": "6968f26bc5fd7943de9fe596b58d719f4e1ec8a05140deb6031dc583fb899077",
+  "prompts/system.txt": "f04bcc441853e870db73f3924cb8bc66bd30a0ddcfc74f6d98910190fede6fd5"
+}

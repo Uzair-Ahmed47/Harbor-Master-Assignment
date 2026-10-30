@@ -1,0 +1,62 @@
+{
+  "tags": {
+    "models": [
+      {
+        "name": "stormwatch-llama3.2:3b",
+        "model": "stormwatch-llama3.2:3b",
+        "modified_at": "2026-10-30T23:21:12.6525148+05:00",
+        "size": 2019392793,
+        "digest": "8f8f514fa653dc089a52d2989db2896bf6163cb991841fe0c9ad48aff7f2d2a3",
+        "details": {
+          "parent_model": "llama3.2:3b",
+          "format": "gguf",
+          "family": "llama",
+          "families": [
+            "llama"
+          ],
+          "parameter_size": "3.2B",
+          "quantization_level": "Q4_K_M",
+          "context_length": 131072,
+          "embedding_length": 3072,
+          "runner": "llamacpp"
+        },
+        "capabilities": [
+          "completion",
+          "tools"
+        ]
+      },
+      {
+        "name": "llama3.2:3b",
+        "model": "llama3.2:3b",
+        "modified_at": "2026-10-30T23:20:53.3263903+05:00",
+        "size": 2019393189,
+        "digest": "a80c4f17acd55265feec403c7aef86be0c25983ab279d83f3bcd3abbcb5b8b72",
+        "details": {
+          "parent_model": "",
+          "format": "gguf",
+          "family": "llama",
+          "families": [
+            "llama"
+          ],
+          "parameter_size": "3.2B",
+          "quantization_level": "Q4_K_M",
+          "context_length": 131072,
+          "embedding_length": 3072,
+          "runner": "ggml"
+        },
+        "capabilities": [
+          "completion",
+          "tools"
+        ]
+      }
+    ]
+  },
+  "ollama": {
+    "version": "0.40.13"
+  },
+  "base_url": "http://127.0.0.1:11434/v1",
+  "model": "stormwatch-llama3.2:3b",
+  "temperature": 0,
+  "max_tokens": 512,
+  "num_ctx": 16384
+}

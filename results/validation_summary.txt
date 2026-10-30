@@ -1,0 +1,7 @@
+Validation on 30 October 2026
+11 automated tests passed.
+120 rule-policy runs, all rows exactly reproduced.
+20 emergence runs and paired comparisons exactly reproduced.
+Main live model records: 79 ({'injection': 66, 'format': 10, 'hallucination_probe': 3}).
+60 paired injection responses reviewed; ten raw factual statements reviewed.
+Report export: 9 pages; declaration: 1 page. Rendered pages visually inspected.

@@ -1,0 +1,13 @@
+{
+  "student_id": "231761",
+  "digit": 1,
+  "evaluation_seeds": [
+    11,
+    40
+  ],
+  "emergence_seeds": [
+    11,
+    20
+  ],
+  "llm_executed": false
+}

@@ -1,0 +1,11 @@
+{
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "packages": {
+    "numpy": "2.3.5",
+    "pandas": "3.0.1",
+    "reportlab": "4.4.9"
+  },
+  "student": "Uzair Ahmed",
+  "student_id": "231761",
+  "figures": "Existing figures retained; all 120 regenerated policy rows exactly matched their source CSV."
+}
