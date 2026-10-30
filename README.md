@@ -19,10 +19,9 @@ Available policies are `baseline`, `reflex`, `model`, `utility` and `llm`. Each 
 ```powershell
 python -m unittest discover -s tests -v
 python evaluate.py
-python reproduce.py --report-only
 ```
 
-Evaluation reproduces the four policies on seeds 11–40, paired comparisons, figures, and the ten-seed switching-penalty experiment. `--no-plots` reproduces CSVs without regenerating figures. The last command rebuilds the report from existing measured results and recorded reviews.
+Evaluation reproduces the four policies on seeds 11–40, paired comparisons, figures, and the ten-seed switching-penalty experiment. `--no-plots` reproduces CSVs without regenerating figures.
 
 ## Model experiments
 
@@ -58,6 +57,5 @@ Utility is `4C - 3D - 2Q - 8S`: normalized cargo, distance, targeting workers an
 - `tests/`: safety, deterministic simulation, approvals, fallback and replay tests.
 - `results/`, `logs/`, `prompts/`: measured data, model evidence and prompt versions.
 - `evaluate.py`, `run_live.py`, `llm_experiments.py`: experiment runners.
-- `make_report.py`, `model_sections.py`, `summarize_live.py`, `reproduce.py`: report pipeline.
 - `CGD460_A2_231761_Report.pdf`: nine-page report.
 - `AI_Usage_Declaration.pdf`: one-page required declaration.
